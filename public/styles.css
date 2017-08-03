@@ -1,0 +1,42 @@
+body{
+	font-family: 'Roboto Mono', monospace;
+}
+.card{
+	float:left;
+	margin: 30px 30px;
+	width: 20rem;
+	border:1px solid black;
+	
+}
+.card-img-top{
+	height: 400px;
+	width: 100%;
+}
+.list-group-item{
+	padding: 5px 20px;
+	height:100px;
+}
+.jumbotron{
+	background-color:#2980b9;
+	color:white; 
+}
+.input-group-addon{
+	background-color:#2980b9;
+	width: 15%;
+	border: 0px solid black;
+}
+button{
+	outline: none;
+	border:none;
+	background: none;
+	color:white;	
+}
+form{
+	float:right;
+}
+.card-text{
+	height:200px;
+}
+.card-title{
+	height:100px;
+}

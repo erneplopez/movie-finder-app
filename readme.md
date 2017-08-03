@@ -1,0 +1,1 @@
+A simple movie finder app built on top of the omdbapi third-party API
